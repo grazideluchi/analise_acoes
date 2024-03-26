@@ -5,5 +5,5 @@ Análise de Ações no Google Sheets
 - Valor inicial da ação em reais;
 - Quantidade de ações;
 - Variação total do dia em reais;
-- Resultado de a ação subiu, caiu ou se manteve estável;
+- Resultado se a ação subiu, caiu ou se manteve estável;
 - Segmento da empresa e sua idade (informações geradaa com auxílio da IA)
